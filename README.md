@@ -24,7 +24,7 @@ I am **Sayem Imran Khan**, a passionate software engineer and problem solver who
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/sayem_imran)
 
 ### GitHub Stats:
-![Sayem's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayem123&show_icons=true&theme=radical)
+![Sayem's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayemimran&show_icons=true&theme=radical)
 
 ### Contribution Graph:
 ![Sayem's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sayem123&theme=dracula)

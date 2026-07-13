@@ -64,20 +64,19 @@ Hey there! I'm **Sayem Imran Khan**, a passionate **Full Stack Developer** who l
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SayemImran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=SayemImran&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayemImran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" height="165" />
+</div>
 
+## 📈 Contribution Activity
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SayemImran&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&area_color=a78bfa" width="95%" />
 </div>
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SayemImran&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
-
+<img src="https://streak-stats.demolab.com?user=SayemImran&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 </div>
-
 ---
 
 ## 🌐 Connect With Me
